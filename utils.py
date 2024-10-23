@@ -29,4 +29,3 @@ def load_shape_data(data_dir):
             labels.append(label_name)
     
     return np.array(images), np.array(labels)
-
