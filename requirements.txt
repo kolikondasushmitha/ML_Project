@@ -1,7 +1,5 @@
 opencv-python
-tensorflow
-torch
-torchvision
 numpy
+tensorflow
+scikit-learn
 matplotlib
-Pillow
